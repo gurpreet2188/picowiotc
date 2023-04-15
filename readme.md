@@ -24,7 +24,7 @@
 </ul>
 <br>
 <br>
-<h2 style='min-height:1px; background-color: #abebc6 ; padding: 0rem 1rem; color:#000'>Notes:</h2>
+<h2 style='min-height:1px; background-color: #abebc6 ; padding: 0rem 1rem; color:#000'>Notes</h2>
 <h3 style='font-weight:bold;'>Azure IoTC lib changes:</h3>
 <p>When IoTC package is installed in Thonny, navigate to 'provision.py' file under /lib/iotc/ and change the API version</p> 
 <p>from:</p>
@@ -43,7 +43,7 @@ self._api_version = '2019-03-31'
 <p>If you are facing issues installing micropython MQTT Robust 1.x from Thonny, use the one provided in this repo and maually install it from Thonny.</p> 
 <br>
 <br>
-<h2 style='min-height:1px; background-color: #abebc6 ; padding: 0rem 1rem; color:#000'>Credits:</h2>
+<h2 style='min-height:1px; background-color: #abebc6 ; padding: 0rem 1rem; color:#000'>Credits</h2>
 <ul> 
 <li>@deshipu and @robert-hh for SH1106</li>
 <li>Daniel Perron for DHT22</li>
